@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bulma-theming/precache-manifest.bd6c5160342459c74af81bedf4e07174.js"
+  "/bulma-theming/precache-manifest.7609be67aea57bc755c2e0ee02e4dc41.js"
 );
 
 self.addEventListener('message', (event) => {

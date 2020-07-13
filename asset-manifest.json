@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bulma-theming/static/css/main.65c5a400.chunk.css",
-    "main.js": "/bulma-theming/static/js/main.f4f0970c.chunk.js",
-    "main.js.map": "/bulma-theming/static/js/main.f4f0970c.chunk.js.map",
+    "main.css": "/bulma-theming/static/css/main.9ebeed2f.chunk.css",
+    "main.js": "/bulma-theming/static/js/main.c0a1979e.chunk.js",
+    "main.js.map": "/bulma-theming/static/js/main.c0a1979e.chunk.js.map",
     "runtime-main.js": "/bulma-theming/static/js/runtime-main.8ae352c0.js",
     "runtime-main.js.map": "/bulma-theming/static/js/runtime-main.8ae352c0.js.map",
     "static/js/2.a1c21058.chunk.js": "/bulma-theming/static/js/2.a1c21058.chunk.js",
     "static/js/2.a1c21058.chunk.js.map": "/bulma-theming/static/js/2.a1c21058.chunk.js.map",
     "index.html": "/bulma-theming/index.html",
-    "precache-manifest.bd6c5160342459c74af81bedf4e07174.js": "/bulma-theming/precache-manifest.bd6c5160342459c74af81bedf4e07174.js",
+    "precache-manifest.7609be67aea57bc755c2e0ee02e4dc41.js": "/bulma-theming/precache-manifest.7609be67aea57bc755c2e0ee02e4dc41.js",
     "service-worker.js": "/bulma-theming/service-worker.js",
-    "static/css/main.65c5a400.chunk.css.map": "/bulma-theming/static/css/main.65c5a400.chunk.css.map",
+    "static/css/main.9ebeed2f.chunk.css.map": "/bulma-theming/static/css/main.9ebeed2f.chunk.css.map",
     "static/js/2.a1c21058.chunk.js.LICENSE.txt": "/bulma-theming/static/js/2.a1c21058.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8ae352c0.js",
     "static/js/2.a1c21058.chunk.js",
-    "static/css/main.65c5a400.chunk.css",
-    "static/js/main.f4f0970c.chunk.js"
+    "static/css/main.9ebeed2f.chunk.css",
+    "static/js/main.c0a1979e.chunk.js"
   ]
 }
