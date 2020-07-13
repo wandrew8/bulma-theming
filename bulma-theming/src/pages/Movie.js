@@ -1,6 +1,7 @@
 import React from 'react'
 import Heading from '../components/Header';
 import MovieStats from '../components/MovieStats'
+import Comments from '../components/Comments'
 import { movies } from '../Data';
 
 export default function Movie(props) {
@@ -58,6 +59,7 @@ export default function Movie(props) {
                     </div>
                 )
             })}
+            <Comments />
         </div>
     )
 }
