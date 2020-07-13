@@ -28,10 +28,43 @@ $input-shadow: none;
 // Import only what you need from Bulma
 @import '../node_modules/bulma/sass/utilities/_all.sass';
 @import '../node_modules/bulma/sass/base/_all.sass';
-@import '../node_modules/bulma/sass/elements/button.sass';
-@import '../node_modules/bulma/sass/elements/container.sass';
-@import '../node_modules/bulma/sass/elements/form.sass';
-@import '../node_modules/bulma/sass/elements/title.sass';
-@import '../node_modules/bulma/sass/components/navbar.sass';
-@import '../node_modules/bulma/sass/layout/hero.sass';
-@import '../node_modules/bulma/sass/layout/section.sass';
+@import '../node_modules/bulma/sass/elements/_all.sass';
+@import '../node_modules/bulma/sass/form/_all.sass';
+@import '../node_modules/bulma/sass/components/_all.sass';
+@import '../node_modules/bulma/sass/layout/_all.sass';
+@import '../node_modules/bulma/sass/grid/_all.sass';
+@import '../node_modules/bulma/sass/helpers/_all.sass';
+
+.movieCardPoster {
+  object-fit: cover;
+}
+
+.contentHeight {
+  height: 100px;
+  overflow: hidden;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.level {
+  margin: 2rem 0rem;
+}
+
+.subtitle {
+  margin: 0;
+  padding: 0;
+  font-size: 1.1rem;
+  line-height: 1;
+  margin-bottom: 0.25rem !important;
+}
+
+.shadow {
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+.card-content {
+  margin: 1rem 0rem !important;
+  padding: 0 !important;
+}
