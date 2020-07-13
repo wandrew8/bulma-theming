@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30c46e665b3adf61873aa233324ee2d9",
+    "revision": "de0ecd4af9a9b7f69ee9465cddfe1194",
     "url": "/bulma-theming/index.html"
   },
   {
-    "revision": "db61ed5185c3006dbb2c",
+    "revision": "c34960102b9d4e9ff1c2",
     "url": "/bulma-theming/static/css/main.65c5a400.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bulma-theming/static/js/2.a1c21058.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db61ed5185c3006dbb2c",
-    "url": "/bulma-theming/static/js/main.58b2fa20.chunk.js"
+    "revision": "c34960102b9d4e9ff1c2",
+    "url": "/bulma-theming/static/js/main.f4f0970c.chunk.js"
   },
   {
     "revision": "73f02b9d812cf2a0bdbd",

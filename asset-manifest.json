@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bulma-theming/static/css/main.65c5a400.chunk.css",
-    "main.js": "/bulma-theming/static/js/main.58b2fa20.chunk.js",
-    "main.js.map": "/bulma-theming/static/js/main.58b2fa20.chunk.js.map",
+    "main.js": "/bulma-theming/static/js/main.f4f0970c.chunk.js",
+    "main.js.map": "/bulma-theming/static/js/main.f4f0970c.chunk.js.map",
     "runtime-main.js": "/bulma-theming/static/js/runtime-main.8ae352c0.js",
     "runtime-main.js.map": "/bulma-theming/static/js/runtime-main.8ae352c0.js.map",
     "static/js/2.a1c21058.chunk.js": "/bulma-theming/static/js/2.a1c21058.chunk.js",
     "static/js/2.a1c21058.chunk.js.map": "/bulma-theming/static/js/2.a1c21058.chunk.js.map",
     "index.html": "/bulma-theming/index.html",
-    "precache-manifest.c0825e5ee051039262c035179663bcd6.js": "/bulma-theming/precache-manifest.c0825e5ee051039262c035179663bcd6.js",
+    "precache-manifest.bd6c5160342459c74af81bedf4e07174.js": "/bulma-theming/precache-manifest.bd6c5160342459c74af81bedf4e07174.js",
     "service-worker.js": "/bulma-theming/service-worker.js",
     "static/css/main.65c5a400.chunk.css.map": "/bulma-theming/static/css/main.65c5a400.chunk.css.map",
     "static/js/2.a1c21058.chunk.js.LICENSE.txt": "/bulma-theming/static/js/2.a1c21058.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8ae352c0.js",
     "static/js/2.a1c21058.chunk.js",
     "static/css/main.65c5a400.chunk.css",
-    "static/js/main.58b2fa20.chunk.js"
+    "static/js/main.f4f0970c.chunk.js"
   ]
 }
